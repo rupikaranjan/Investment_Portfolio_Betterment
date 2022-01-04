@@ -44,7 +44,7 @@ The data is analyzed to determine if any of the portfolios outperform S&P 500. T
 
 ---
 
-  >####Question : Based on the cumulative return data and the visualization, do any of the four fund portfolios outperform the S&P 500 Index?
+  >Question : Based on the cumulative return data and the visualization, do any of the four fund portfolios outperform the S&P 500 Index?
   
   >Answer : During the initial time period there are some times where cumulative returns for S&P 500 is lower than most of the other fund portfolios but over the time S&P 500 outperforms all other four fund portfolios even during the dip in early 2019 and early 2020.
   
@@ -59,7 +59,7 @@ Box plot is used to analyse the volatility of four fund portfolio and S&P 500.
  
 ---
 
-  >####Question : Based on the box plot visualization of just the four fund portfolios, which fund was the most volatile (with the greatest spread) and which was the least volatile (with the smallest spread)?
+  >Question : Based on the box plot visualization of just the four fund portfolios, which fund was the most volatile (with the greatest spread) and which was the least volatile (with the smallest spread)?
   
   > Answer : 
   
@@ -80,11 +80,11 @@ Risk Profile for each portfolio is built using Standard deviation ans the beta v
 
 ---
 
-  >####Question : Based on the annualized standard deviation, which portfolios pose more risk than the S&P 500?
+  >Question : Based on the annualized standard deviation, which portfolios pose more risk than the S&P 500?
   
   > Answer : Compared to S&P 500 all other four fund portfolios seems to pose less risk than S&P 500.
   
-  >####Question : Based on the rolling metrics, does the risk of each portfolio increase at the same time that the risk of the S&P 500 increases?
+  >Question : Based on the rolling metrics, does the risk of each portfolio increase at the same time that the risk of the S&P 500 increases?
   
   > Answer : 
   
@@ -96,7 +96,7 @@ Risk Profile for each portfolio is built using Standard deviation ans the beta v
 
   >In conclusion, BERKSHIRE HATHAWAY INC and PAULSON & CO.INC. risk increases when S&P risk increases. But when there is a very large significant increase in risk of S&P 500 it is reflected in all the portfolios.
 
-  >####Question : Based on the rolling standard deviations of only the four fund portfolios, which portfolio poses the most risk? Does this change over time?
+  >Question : Based on the rolling standard deviations of only the four fund portfolios, which portfolio poses the most risk? Does this change over time?
   
   > Answer : BERKSHIRE HATHAWAY INC poses more risk and over time PAULSON & CO.INC. also seems to pose more risk.
 
@@ -111,7 +111,7 @@ Risk-Return profile of all the fund portfolio is determines using Sharpe Ratio.
   
 ---
 
-  >####Question : Which of the four portfolios offers the best risk-return profile? Which offers the worst?
+  >Question : Which of the four portfolios offers the best risk-return profile? Which offers the worst?
   
   > Answer : 
   
@@ -135,11 +135,11 @@ we are choosing BERKSHIRE HATHAWAY INC , TIGER GLOBAL MANAGEMENT LLC portfolio f
   
 ---
 
-  >####Question : Which of the two portfolios seem more sensitive to movements in the S&P 500?
+  >Question : Which of the two portfolios seem more sensitive to movements in the S&P 500?
   
   > Answer : TIGER GLOBAL MANAGEMENT LLC seem to be more sensitive to the movements in the S&P 500 compared to BERKSHIRE HATHAWAY INC
   
-  >####Question : Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
+  >Question : Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
   
   > Answer : **BERKSHIRE HATHAWAY INC is recommended** for the inclusion based on the fact that its beta value is `0.2214986101354593` compared to TIGER GLOBAL MANAGEMENT LLC's beta value which is 0.03093001487238774.
   
