@@ -45,6 +45,7 @@ The data is analyzed to determine if any of the portfolios outperform S&P 500. T
 ---
 
   >####Question : Based on the cumulative return data and the visualization, do any of the four fund portfolios outperform the S&P 500 Index?
+  
   >Answer : During the initial time period there are some times where cumulative returns for S&P 500 is lower than most of the other fund portfolios but over the time S&P 500 outperforms all other four fund portfolios even during the dip in early 2019 and early 2020.
   
 ---
@@ -59,7 +60,9 @@ Box plot is used to analyse the volatility of four fund portfolio and S&P 500.
 ---
 
   >####Question : Based on the box plot visualization of just the four fund portfolios, which fund was the most volatile (with the greatest spread) and which was the least volatile (with the smallest spread)?
+  
   > Answer : 
+  
   >1. `BERKSHIRE HATHWAY INC` seems to be more volatile compared to other three portfolios with largest spread.
   >2. `TIGER GLOBAL MANAGEMENT LLC` seems to be least volatile with the smallest spread.
   
@@ -78,9 +81,13 @@ Risk Profile for each portfolio is built using Standard deviation ans the beta v
 ---
 
   >####Question : Based on the annualized standard deviation, which portfolios pose more risk than the S&P 500?
+  
   > Answer : Compared to S&P 500 all other four fund portfolios seems to pose less risk than S&P 500.
+  
   >####Question : Based on the rolling metrics, does the risk of each portfolio increase at the same time that the risk of the S&P 500 increases?
+  
   > Answer : 
+  
   >1) During the inital years(2015-2016) the risk for the four funding portfolios doesnt' seem to be affected by S&P 500. The four portfolios seems to be stable even when there is a rise in S&P 500.
   >2) From the end of 2016 BERKSHIRE HATHAWAY INC risk increase when risk of S&P 500 increases while the other three porfolios seems to be stable.
   >3) From the end of 2018 PAULSON & CO.INC. risk increase when risk of S&P 500 increases while the other two porfolios seems to be stable.
@@ -90,6 +97,7 @@ Risk Profile for each portfolio is built using Standard deviation ans the beta v
   >In conclusion, BERKSHIRE HATHAWAY INC and PAULSON & CO.INC. risk increases when S&P risk increases. But when there is a very large significant increase in risk of S&P 500 it is reflected in all the portfolios.
 
   >####Question : Based on the rolling standard deviations of only the four fund portfolios, which portfolio poses the most risk? Does this change over time?
+  
   > Answer : BERKSHIRE HATHAWAY INC poses more risk and over time PAULSON & CO.INC. also seems to pose more risk.
 
 ---
@@ -104,7 +112,9 @@ Risk-Return profile of all the fund portfolio is determines using Sharpe Ratio.
 ---
 
   >####Question : Which of the four portfolios offers the best risk-return profile? Which offers the worst?
+  
   > Answer : 
+  
   >1. Worst Risk-Return Portfolio - PAULSON & CO.INC. , SOROS FUND MANAGEMENT LLC 
   >2. Best Risk-Rturn Portfolio - BERKSHIRE HATHAWAY INC , TIGER GLOBAL MANAGEMENT LLC
   
@@ -126,8 +136,11 @@ we are choosing BERKSHIRE HATHAWAY INC , TIGER GLOBAL MANAGEMENT LLC portfolio f
 ---
 
   >####Question : Which of the two portfolios seem more sensitive to movements in the S&P 500?
-  > Answer : 
+  
+  > Answer : TIGER GLOBAL MANAGEMENT LLC seem to be more sensitive to the movements in the S&P 500 compared to BERKSHIRE HATHAWAY INC
+  
   >####Question : Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
-  > Answer : 
+  
+  > Answer : **BERKSHIRE HATHAWAY INC is recommended** for the inclusion based on the fact that its beta value is `0.2214986101354593` compared to TIGER GLOBAL MANAGEMENT LLC's beta value which is 0.03093001487238774.
   
 ---
